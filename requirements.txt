@@ -4,3 +4,8 @@ openai
 numpy
 python-dotenv
 Pillow
+PyPDF2
+pypdf
+opencv-python
+faiss-cpu
+sentence-transformers

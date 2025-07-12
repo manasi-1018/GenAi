@@ -1,0 +1,6 @@
+DISEASE PROGRESSION ANALYSIS REPORT
+Generated: 2025-07-11 16:42:52
+Disease: Custom Disease
+Location: Specific Location
+============================================================
+
